@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 559b5ec6b58d04141a1606bff6fc2109
+timeCreated: 1495043655
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ala
+    21300002: pelo1
+    21300004: pelo2
+    21300006: cuerpo
+    21300008: cabeza
+    21300010: pico_abierto
+    21300012: pico_cerrado
+    21300014: camisa
+    21300016: pierna1
+    21300018: pierna2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ala
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 854
+        width: 180
+        height: 117
+      alignment: 9
+      pivot: {x: 0.7748006, y: 0.42953777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pelo1
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 569
+        width: 293
+        height: 462
+      alignment: 9
+      pivot: {x: 0.790744, y: 0.83903974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pelo2
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 570
+        width: 265
+        height: 430
+      alignment: 9
+      pivot: {x: 0.282233, y: 0.85787994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuerpo
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 398
+        width: 577
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cabeza
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 404
+        width: 351
+        height: 335
+      alignment: 9
+      pivot: {x: 0.30427295, y: 0.26211265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pico_abierto
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 603
+        width: 107
+        height: 133
+      alignment: 9
+      pivot: {x: 0.16612971, y: 0.54132307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pico_cerrado
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 339
+        width: 149
+        height: 98
+      alignment: 9
+      pivot: {x: 0.13113874, y: 0.52804005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: camisa
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 42
+        width: 520
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pierna1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 75
+        width: 97
+        height: 159
+      alignment: 9
+      pivot: {x: 0.41501012, y: 0.845661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pierna2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 81
+        width: 77
+        height: 153
+      alignment: 9
+      pivot: {x: 0.321557, y: 0.84125614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a480d42ddfff1314794c59a462de0a70
+timeCreated: 1493990548
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Finger Paint
+  fontNames:
+  - Finger Paint
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

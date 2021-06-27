@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 29280cc7825e5e54fb26277ac747f599
+timeCreated: 1494341308
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pueblo_sol_1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pueblo_sol_1
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 654
+        width: 539
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 1331.543, y: 285.02036}
+      - {x: 1291.9922, y: 204.42334}
+      - {x: 1291.9922, y: 122.36093}
+      - {x: 1313.9648, y: 122.36093}
+      - {x: 1321.2891, y: 123.826324}
+      - {x: 1354.9805, y: 257.17776}
+      - {x: 1354.9805, y: 280.62418}
+      - {x: 1352.0508, y: 285.02036}
+    - - {x: 1438.4766, y: 290.88196}
+      - {x: 1435.5469, y: 286.48578}
+      - {x: 1435.5469, y: 230.80055}
+      - {x: 1444.3359, y: 201.49254}
+      - {x: 1467.7734, y: 201.49254}
+      - {x: 1470.7031, y: 204.42334}
+      - {x: 1470.7031, y: 243.98915}
+      - {x: 1469.2383, y: 261.57394}
+      - {x: 1466.3086, y: 287.95117}
+      - {x: 1456.0547, y: 290.88196}
+    - - {x: 1187.9883, y: 359.75577}
+      - {x: 1157.2266, y: 349.498}
+      - {x: 1105.957, y: 321.65536}
+      - {x: 1105.957, y: 295.27817}
+      - {x: 1149.9023, y: 295.27817}
+      - {x: 1208.4961, y: 336.3094}
+      - {x: 1208.4961, y: 355.3596}
+      - {x: 1207.0312, y: 359.75577}
+    - - {x: 1240.7227, y: 540}
+      - {x: 1198.2422, y: 497.50342}
+      - {x: 1198.2422, y: 342.171}
+      - {x: 1289.0625, y: 309.93216}
+      - {x: 1432.6172, y: 309.93216}
+      - {x: 1500, y: 358.29037}
+      - {x: 1500, y: 540}
+    - - {x: 971.1914, y: 523.8806}
+      - {x: 971.1914, y: 484.31482}
+      - {x: 978.5156, y: 471.12622}
+      - {x: 1168.9453, y: 471.12622}
+      - {x: 1168.9453, y: 500.4342}
+      - {x: 1107.4219, y: 523.8806}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
